@@ -8,7 +8,7 @@ import org.w3c.dom.NodeList;
 //Some comments added again
 //Making some changes
 //Jenkins Test - Testing conflict 2nd comment
-//Testing auto trigger to Jenkins
+//Testing auto trigger to Jenkins -- comment
 
   
 public class RSS {  
