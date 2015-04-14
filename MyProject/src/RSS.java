@@ -7,7 +7,7 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;  
 //Some comments added again
 //Making some changes
-//Jenkins Test - Testing conflict 2nd comment
+//Jenkins Test
 //Testing auto trigger to Jenkins -- comment
 
   
